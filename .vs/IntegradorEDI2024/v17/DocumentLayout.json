@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|c:\\users\\diego\\onedrive\\escritorio\\mvcdiegoromero\\integradoredi2024\\integradoredi2024.web\\views\\genres\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|solutionrelative:integradoredi2024.web\\views\\genres\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\integradoredi2024.web\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|solutionrelative:integradoredi2024.web\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\integradoredi2024.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|solutionrelative:integradoredi2024.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\integradoredi2024.web\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603DA1-F1AC-4C70-823A-F6579B8BBEC1}|IntegradorEDI2024.Web\\IntegradorEDI2024.Web.csproj|solutionrelative:integradoredi2024.web\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpSert.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Views\\Genres\\UpSert.cshtml",
+              "RelativeDocumentMoniker": "IntegradorEDI2024.Web\\Views\\Genres\\UpSert.cshtml",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Views\\Genres\\UpSert.cshtml",
+              "RelativeToolTip": "IntegradorEDI2024.Web\\Views\\Genres\\UpSert.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:27:07.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntegradorEDI2024.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntegradorEDI2024.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCMAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:21:52.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Views\\Genres\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntegradorEDI2024.Web\\Views\\Genres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Views\\Genres\\Index.cshtml",
+              "RelativeToolTip": "IntegradorEDI2024.Web\\Views\\Genres\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T19:20:03.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "IntegradorEDI2024.Web\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Escritorio\\MVCDiegoRomero\\IntegradorEDI2024\\IntegradorEDI2024.Web\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "IntegradorEDI2024.Web\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAxwCoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:12:22.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
